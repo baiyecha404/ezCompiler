@@ -1,0 +1,2 @@
+# ezCompiler
+practice scripts
